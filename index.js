@@ -1,5 +1,2 @@
-function happyHolidays(string)
-{
-return string(string) 
-  
-}
+function happyHolidays() 
+{ console.log("Happy holidays!") }
