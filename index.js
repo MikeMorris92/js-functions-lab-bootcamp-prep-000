@@ -1,5 +1,5 @@
 function happyHolidays(string)
 {
-return string() 
+return string(string) 
   
 }
