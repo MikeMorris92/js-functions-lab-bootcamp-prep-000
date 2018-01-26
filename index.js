@@ -2,10 +2,9 @@ function happyHolidays()
 { 
   return "Happy holidays!"
   }
-function happyHolidaysTo(mike) 
-function sayHiToGrandma(string) 
+function happyHolidaysTo(name)
 {
  
- if(string===string.toLowerCase())  
+ if(name===mike)  
   
-  return "I can't hear you"; }
+  return "Happy holidays, ${mike}!"; }
